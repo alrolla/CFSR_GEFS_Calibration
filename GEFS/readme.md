@@ -24,5 +24,5 @@
 
 * Se ejecuta el script bash "P03_GEFS_Inter_CPC_UNI.sh" para interpolar el modelo a la grilla CPC_UNI.
 
-
+* grid.CPC_UNI es la descripcion de la grilla para interpolar el modelo. 
 
