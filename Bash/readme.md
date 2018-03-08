@@ -10,4 +10,5 @@
 
 * Se descargan los datos del ftp de ftp.cdc.noaa.gov/Public/reforecast2/ un archivo para la S1 y otro para la S2.
 
+    wget ftp://ftp.cdc.noaa.gov/Public/reforecast2/apcp_sfc_latlon_all_19990101_20101231_alfrDuyHEJ.nc
     wget ftp://ftp.cdc.noaa.gov/Public/reforecast2/apcp_sfc_latlon_all_19900101_20101231_alfrFMVteL_t190.nc
