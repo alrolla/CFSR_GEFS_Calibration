@@ -1,4 +1,4 @@
-## Scripts bash para el proceso de "GEFS Reforecast v2 Ensemble Data"
+## Scripts bash y R para el proceso de "GEFS Reforecast v2 Ensemble Data"
 
 
 
