@@ -26,3 +26,4 @@
 
 * grid.CPC_UNI es la descripcion de la grilla para interpolar el modelo. 
 
+* Se ejecuta el script R  "P04_GEFS_S1_S2_to_W1_W2.R" para calcular el acumulado semanal de S1 y S2 de precipitacion
