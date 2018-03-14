@@ -22,8 +22,8 @@
 
 * Se ejecuta el script bash "P02_GEFS_EnsMedio.sh" para pra calcular el ensamble medio de los 11 miembros de S1 y S2.
 
-* Se ejecuta el script bash "P03_GEFS_Inter_CPC_UNI.sh" para interpolar el modelo a la grilla CPC_UNI.
+* Se ejecuta el script R  "P03_GEFS_S1_S2_to_W1_W2.R" para calcular el acumulado semanal de S1 y S2 de precipitacion
+
+* Se ejecuta el script bash "P04_GEFS_Inter_CPC_UNI.sh" para interpolar el modelo a la grilla CPC_UNI.
 
 * grid.CPC_UNI es la descripcion de la grilla para interpolar el modelo. 
-
-* Se ejecuta el script R  "P04_GEFS_S1_S2_to_W1_W2.R" para calcular el acumulado semanal de S1 y S2 de precipitacion
